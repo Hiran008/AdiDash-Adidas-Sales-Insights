@@ -10,7 +10,7 @@ Welcome to **AdiDash**, an interactive **Power BI** dashboard that transforms Ad
 3. [Key Visuals & KPIs](#key-visuals--kpis)  
 4. [Sample Dashboard Screenshots](#sample-dashboard-screenshots)  
 5. [How to Use](#how-to-use)  
-6. [Contact](#contact)  
+
 
 ---
 
@@ -79,10 +79,3 @@ Adidas needs a unified view of sales to pinpoint:
 4. Interact with **filters and slicers** to customize your analysis.  
 
 ---
-
-## Contact
-**Name:** Your Name  
-**LinkedIn:** [Your LinkedIn URL](#)  
-**Email:** [your_email@example.com](mailto:your_email@example.com)
-
-> _Disclaimer: This project is for demonstration purposes. All sample data is fictitious unless otherwise stated._
