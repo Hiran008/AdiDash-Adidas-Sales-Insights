@@ -44,31 +44,31 @@ Adidas needs a unified view of sales to pinpoint:
 ## Sample Dashboard Screenshots
 
 1. **Overall Dashboard**  
-   [![Overall Dashboard](./overall%20dashboard.png)](./overall%20dashboard.png)
+   [![Overall Dashboard](./dashboard_screen-shot/overall%20dashboard.png)](./dashboard_screen-shot/overall%20dashboard.png)
 
 2. **KPI Cards**  
-   [![KPI Cards](./kpicards.png)](./kpicards.png)
+   [![KPI Cards](./dashboard_screen-shot/kpicards.png)](./dashboard_screen-shot/kpicards.png)
 
 3. **Sales by Month (Line Chart)**  
-   [![Sales by Month](./slaesbymonthline.png)](./slaesbymonthline.png)
+   [![Sales by Month](./dashboard_screen-shot/slaesbymonthline.png)](./dashboard_screen-shot/slaesbymonthline.png)
 
 4. **Total Sales by Region (Donut Chart)**  
-   [![Total Sales by Region](./totalsalesbyregiondonut.png)](./totalsalesbyregiondonut.png)
+   [![Total Sales by Region](./dashboard_screen-shot/totalsalesbyregiondonut.png)](./dashboard_screen-shot/totalsalesbyregiondonut.png)
 
 5. **Region Slicer**  
-   [![Region Slicer](./region-slicer.png)](./region-slicer.png)
+   [![Region Slicer](./dashboard_screen-shot/region-slicer.png)](./dashboard_screen-shot/region-slicer.png)
 
 6. **Invoice Date Slicer**  
-   [![Invoice Date Slicer](./invoicate-date-slicer.png)](./invoicate-date-slicer.png)
+   [![Invoice Date Slicer](./dashboard_screen-shot/invoicedate-slicer.png)](./dashboard_screen-shot/invoicedate-slicer.png)
 
 7. **Filled Map**  
-   [![Filled Map](./filledmap.png)](./filledmap.png)
+   [![Filled Map](./dashboard_screen-shot/filledmap.png)](./dashboard_screen-shot/filledmap.png)
 
 8. **Filled Map Information**  
-   [![Filled Map Information](./filledmap%20information.png)](./filledmap%20information.png)
+   [![Filled Map Information](./dashboard_screen-shot/filledmap%20information.png)](./dashboard_screen-shot/filledmap%20information.png)
 
 9. **Product and Retailer Breakdown**  
-   [![Product and Retailer Breakdown](./product%20and%20retailer%20breakdown....)](./product%20and%20retailer%20breakdown....)
+   [![Product and Retailer Breakdown](./dashboard_screen-shot/product%20and%20retailer%20breakdown.png)](./dashboard_screen-shot/product%20and%20retailer%20breakdown.png)
 
 ---
 
@@ -79,3 +79,10 @@ Adidas needs a unified view of sales to pinpoint:
 4. Interact with **filters and slicers** to customize your analysis.  
 
 ---
+
+## Contact
+**Name:** Your Name  
+**LinkedIn:** [Your LinkedIn URL](#)  
+**Email:** [your_email@example.com](mailto:your_email@example.com)
+
+> _Disclaimer: This project is for demonstration purposes. All sample data is fictitious unless otherwise stated._
