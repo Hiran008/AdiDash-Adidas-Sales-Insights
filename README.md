@@ -9,7 +9,8 @@ Welcome to **AdiDash**, an interactive **Power BI** dashboard that transforms Ad
 2. [Problem Statement](#problem-statement)  
 3. [Key Visuals & KPIs](#key-visuals--kpis)  
 4. [Sample Dashboard Screenshots](#sample-dashboard-screenshots)  
-5. [How to Use](#how-to-use)    
+5. [How to Use](#how-to-use)  
+6. [Contact](#contact)  
 
 ---
 
@@ -57,17 +58,17 @@ Adidas needs a unified view of sales to pinpoint:
 5. **Region Slicer**  
    [![Region Slicer](./region-slicer.png)](./region-slicer.png)
 
-6. **Filled Map**  
-   [![Filled Map](./filledmap.png)](./filledmap.png)
+6. **Invoice Date Slicer**  
+   [![Invoice Date Slicer](./invoicate-date-slicer.png)](./invoicate-date-slicer.png)
 
-7. **Invoice Slicer**  
-   [![Invoice Slicer](./invoice-slicer.png)](./invoice-slicer.png)
+7. **Filled Map**  
+   [![Filled Map](./filledmap.png)](./filledmap.png)
 
 8. **Filled Map Information**  
    [![Filled Map Information](./filledmap%20information.png)](./filledmap%20information.png)
 
 9. **Product and Retailer Breakdown**  
-   [![Product and Retailer Breakdown](./product%20and%20retailer%20breakdown.png)](./product%20and%20retailer%20breakdown.png)
+   [![Product and Retailer Breakdown](./product%20and%20retailer%20breakdown....)](./product%20and%20retailer%20breakdown....)
 
 ---
 
